@@ -25,7 +25,7 @@ This repository contains 4 main files:
 
 ### Updates and Maintenance
 
-This project was primarily a proof of concept, it is currently running as expected and hence considered a success. However it is unlikely support will be provided for this in the future if it does break.
+This project was primarily a proof of concept, it is currently running as expected and hence considered a success. It is unlikely support will be provided for this in the future if it does break.
 
 
 
