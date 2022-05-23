@@ -1,4 +1,4 @@
-# tweepy-bots/bots/config.py
+# Provides method for authenticating with the twitter API.
 import tweepy
 import logging
 import os
