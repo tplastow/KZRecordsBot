@@ -1,5 +1,5 @@
 # KZRecordsBot
-This repository holds the source files behind the @KzRecords twitter bot.
+This repository holds the source files behind the @KZRecords twitter bot.
 
 ### Background
 
